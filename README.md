@@ -439,6 +439,6 @@ TiriumDAO is an effort to build decentralized financial and digital infrastructu
 ### 13.5 Contact & Community
 
 - Participate in development and governance through the project's GitHub repository:  
-  - $https://github.com/TiriumDAO$  
+  - https://github.com/mjyahaghi/tirium-dao-project
 
 - Communication channels and community forums will be introduced through this repository and official documentation.
